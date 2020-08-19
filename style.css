@@ -1,0 +1,41 @@
+.manger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    text-align: center;
+    background: #ddd;
+    padding: 3px;
+}
+
+.checked {
+    text-decoration: line-through;
+    /* font-size: 15px; */
+}
+
+.list-group-item {
+    font-size: 20px;
+}
+
+/* .box {
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.box .box1 {
+    width: 80%;
+    height: 100%;
+    background-color: red;
+}
+
+.box .box2 {
+    width: 20%;
+    height: 100%;
+    background-color: royalblue;
+} */
